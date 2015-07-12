@@ -20,5 +20,13 @@
   },
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/palmetto-model.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/palmetto-model/issues"
+  },
+  "homepage": "https://github.com/twilson63/palmetto-model#readme"
 }
