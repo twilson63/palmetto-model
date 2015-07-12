@@ -1,5 +1,7 @@
 # Palmetto model
 
+[![Build Status](https://travis-ci.org/twilson63/palmetto-model.svg?branch=master)](https://travis-ci.org/twilson63/palmetto-model)
+
 Model is a basic palmetto service that uses memdown and pouchdb as its datastore.
 
 ## Usage
